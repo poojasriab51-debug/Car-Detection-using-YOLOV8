@@ -1,0 +1,8 @@
+path: /Users/poojasriab/Documents/data 2/yolo_dataset
+
+train: images/train
+val: images/val
+
+nc: 1
+names:
+  - car

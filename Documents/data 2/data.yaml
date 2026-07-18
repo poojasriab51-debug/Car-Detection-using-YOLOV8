@@ -1,0 +1,6 @@
+path: '/Users/poojasriab/Documents/data 2'
+train: training_images
+val: training_images  # use same set for now (or create a val set separately)
+
+nc: 1  # number of classes
+names: ['car']  # class names
